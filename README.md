@@ -31,3 +31,21 @@ Here are some ideas to get you started:
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=murselnet&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<br/> 
+<br/> 
+<br/> 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=murselnet&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=murselnet&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+
