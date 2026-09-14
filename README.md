@@ -1,44 +1,70 @@
-<div align="center">
-  <h1>Merhaba, Ben Mursel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=Merhaba,%20Ben%20Mürsel!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  
+  <h3>🤖 Yapay Zeka, Otonom Ajanlar & Full Stack Yazılım Geliştirici</h3>
   
   <p>
-    <strong>Yapay Zeka & Makine Öğrenmesi | Full Stack Geliştirici</strong>
+    Yapay zeka modelleri, otonom ajan sistemleri, modern web ve mobil teknolojiler üzerine yenilikçi çözümler üretiyorum.<br>
+    Karmaşık problemleri temiz kod, sağlam mimari ve ölçeklenebilir altyapılarla çözmeyi seviyorum.
   </p>
 
   <p>
-    Yapay zeka, makine öğrenmesi ve modern web teknolojileri üzerine çözümler üretiyorum.<br>
-    Karmaşık problemleri temiz kod ve ölçeklenebilir mimarilerle çözmeyi severim.
+    <a href="https://mursel.net" target="_blank">
+      <img src="https://img.shields.io/badge/Website-mursel.net-0F172A?style=for-the-badge&logo=globe&logoColor=38BDF8" alt="Website" />
+    </a>
+    <a href="https://market.mursel.net" target="_blank">
+      <img src="https://img.shields.io/badge/Piyasa-market.mursel.net-0F172A?style=for-the-badge&logo=tradingview&logoColor=10B981" alt="Market" />
+    </a>
+    <a href="https://linkedin.com/in/murselnet" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-murselnet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:iletisim@mursel.net">
+      <img src="https://img.shields.io/badge/Email-iletisim@mursel.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
-  
-  <a href="https://mursel.net" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mursel.net-2f2f2f?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:iletisim@mursel.net">
-    <img src="https://img.shields.io/badge/Email-Bana%20Ulaşın-2f2f2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/murselnet">
-    <img src="https://img.shields.io/badge/LinkedIn-Bağlantı%20Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
 
 <br />
 
-### 🛠️ Teknolojiler & Araçlar
+### 🚀 Odak Alanları & Neler Yapıyorum?
 
-Minimalist tasarımına uygun olarak yetenek setini kategorize ettim:
-
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Diller** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-<br />
-
-<br />
+- 🤖 **Otonom Yapay Zeka & Ajanlar:** Çoklu ajan (multi-agent) orkestrasyonu, LLM entegrasyonları, otonom döngü mühendisliği (Agentic Workflows) ve prompt mimarisi.
+- 🌐 **Modern Web & API Mimarileri:** Next.js ve React ile modern arayüzler; FastAPI ve Node.js ile yüksek performanslı mikroservisler ve RESTful API'ler.
+- 📱 **Mobil Uygulama & Oyun Geliştirme:** React Native & Expo ile Android mobil uygulamaları (Google Play); Unity ve C# ile 2D/3D oyun projeleri.
+- ☁️ **Cloud Altyapı & Uç Nokta (Edge) Sistemleri:** Cloudflare Workers, KV, D1, Argo Tunnels ve Supabase (PostgreSQL) ile sunucusuz ve dağıtık veri akışları.
+- 🖥️ **Masaüstü & Sistem Otomasyonu:** Python tabanlı GUI araçları, sistem izleme daemon'ları (psutil, SQLite WAL) ve Playwright web otomasyonları.
 
 ---
+
+### 🛠️ Teknolojiler & Araçlar
+
+| Alan | Teknolojiler ve Kütüphaneler |
+| :--- | :--- |
+| **🤖 Yapay Zeka & Ajanlar** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI Agents](https://img.shields.io/badge/-Autonomous_Agents-6366F1?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/-LLMs-10B981?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-F59E0B?style=flat-square) |
+| **🌐 Web & Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **⚙️ Backend & Veritabanı** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **📱 Mobil & Oyun** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+
+---
+
+### 📊 GitHub Canlı İstatistikleri
+
 <div align="center">
-  <small>Hazırlayan: <a href="https://github.com/murselnet">Mursel</a> © 2025</small>
+  <img src="https://github-readme-stats.vercel.app/api?username=murselnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murselnet&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=murselnet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=70&section=footer" width="100%" alt="Footer" />
+  <p>
+    <i>"Sürekli öğrenen, üreten ve sınırları zorlayan bir yazılım tutkusuyla."</i><br />
+    <small><a href="https://github.com/murselnet">Mürsel</a> • 2026</small>
+  </p>
 </div>
