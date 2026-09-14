@@ -45,19 +45,6 @@
 
 ---
 
-### 📊 GitHub Canlı İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murselnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murselnet&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=murselnet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=70&section=footer" width="100%" alt="Footer" />
   <p>
