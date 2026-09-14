@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=Merhaba,%20Ben%20Mürsel!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
   
   <h3>🤖 Yapay Zeka, Otonom Ajanlar & Full Stack Yazılım Geliştirici</h3>
@@ -11,9 +11,6 @@
   <p>
     <a href="https://mursel.net" target="_blank">
       <img src="https://img.shields.io/badge/Website-mursel.net-0F172A?style=for-the-badge&logo=globe&logoColor=38BDF8" alt="Website" />
-    </a>
-    <a href="https://market.mursel.net" target="_blank">
-      <img src="https://img.shields.io/badge/Piyasa-market.mursel.net-0F172A?style=for-the-badge&logo=tradingview&logoColor=10B981" alt="Market" />
     </a>
     <a href="https://linkedin.com/in/murselnet" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-murselnet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
