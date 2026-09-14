@@ -61,7 +61,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=70&section=footer" width="100%" alt="Footer" />
   <p>
-    <i>"Sürekli öğrenen, üreten ve sınırları zorlayan bir yazılım tutkusuyla."</i><br />
     <small><a href="https://github.com/murselnet">Mürsel</a> • 2026</small>
   </p>
 </div>
